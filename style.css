@@ -140,11 +140,6 @@ input:checked ~ .slide{
     text-align: center;
   }
   
-  .section-title {
-    font-size: 2em;
-    margin-bottom: 30px;
-  }
-  
   .product-card {
     display: inline-block;
     width: 250px;
@@ -155,6 +150,7 @@ input:checked ~ .slide{
     transition: opacity 0.8s ease-out, transform 0.8s ease-out;
     padding: 20px;
     text-align: center;
+    text-decoration: none;
   }
   
   .product-card.visible {
