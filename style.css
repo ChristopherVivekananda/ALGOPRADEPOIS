@@ -140,14 +140,14 @@ input:checked ~ .slide{
     text-align: center;
   }
   
-  .product-card {
+.product-card {
     display: inline-block;
     width: 250px;
     margin: 15px;
     background-color: white;
     opacity: 0;
     transform: translateY(50px);
-    transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+    transition: opacity 0.8sease-out, transform 0.8sease-out;
     padding: 20px;
     text-decoration: none;
   }
